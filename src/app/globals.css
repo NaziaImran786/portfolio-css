@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+:root {
+  /* --background-black: #0A0908; */
+  /* --logo-color:  #A9927D; */
+  /* --background-gray: #1A1A1A; */
+  /* --background-light-gray: #222222; */
+   /* --button-color:  #5E503F; */
+  --background-gray: #1A1A1A;
+  --background-light-gray: #3089e8;
+  --background-black: #0A0908;  
+  --logo-color:  #4864b4;
+  --button-color:  #09236a;
+  --hover-botton-color:  #d0d1d4;
+}
+
+html,body{
+  color: white;
+  overflow-x: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

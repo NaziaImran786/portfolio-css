@@ -1,0 +1,31 @@
+.testimonials{
+  width: 100%;
+  background-color: var(--background-black);
+  padding: 9.625rem 2.5rem 10rem 2.5rem;
+  text-align: center;
+}
+  
+.testimonials h1{
+  font-size: 3rem;
+  line-height: 3rem;
+  margin-bottom: 5.625rem;
+}
+  
+.testimonials span{
+  color: var(--logo-color);
+}
+  
+/* embla */
+.embla {
+  overflow: hidden;
+}
+  
+.embla__container {
+  display: flex;
+}
+
+@media (max-width: 768px) {
+  .testimonials{
+      padding: 160px 16px 160px 16px;
+  }
+}
