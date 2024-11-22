@@ -1,6 +1,6 @@
 'use client'
 import React from "react";
-import styles from "./portfolioCard.module.css";
+import styles from '@/components/Portfolio-Section/portfolio-cards/PortfolioCard.module.css'
 import Image from "next/image";
 import Link from 'next/link'
 import {motion} from "framer-motion"
